@@ -379,12 +379,14 @@ footer div.footer-container {
 
 }
 
-.contact .contact-container {
+.contact .contact-container,
+.blog .blog-container {
     margin-left: auto;
     margin-right: auto;
 }
 
-.contact .contact-container h2 {
+.contact .contact-container h2,
+.blog .blog-container h2 {
     text-align: center;
     font-size: 35px;
     font-weight: normal;
